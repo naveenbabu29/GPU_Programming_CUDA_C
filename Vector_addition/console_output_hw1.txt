@@ -1,0 +1,179 @@
+Number of CUDA devices: 2
+
+Device 0: Quadro RTX 6000
+  Compute capability: 7.5
+  Total global memory: 22691.12 MB
+  Maximum threads per block: 1024
+  Maximum grid dimensions: (2147483647, 65535, 65535)
+
+Device 1: Quadro RTX 6000
+  Compute capability: 7.5
+  Total global memory: 22691.12 MB
+  Maximum threads per block: 1024
+  Maximum grid dimensions: (2147483647, 65535, 65535)
+
+Performing vector addition for N = 1 and P = 1
+Vector addition successful for N = 1 and P = 1
+Kernel execution time for N = 1: 3.929 ms
+
+Performing vector addition for N = 2 and P = 1
+Vector addition successful for N = 2 and P = 1
+Kernel execution time for N = 2: 0.014 ms
+
+Performing vector addition for N = 4 and P = 1
+Vector addition successful for N = 4 and P = 1
+Kernel execution time for N = 4: 0.010 ms
+
+Performing vector addition for N = 8 and P = 1
+Vector addition successful for N = 8 and P = 1
+Kernel execution time for N = 8: 0.012 ms
+
+Performing vector addition for N = 16 and P = 1
+Vector addition successful for N = 16 and P = 1
+Kernel execution time for N = 16: 0.010 ms
+
+Performing vector addition for N = 32 and P = 1
+Vector addition successful for N = 32 and P = 1
+Kernel execution time for N = 32: 0.010 ms
+
+Performing vector addition for N = 64 and P = 1
+Vector addition successful for N = 64 and P = 1
+Kernel execution time for N = 64: 0.010 ms
+
+Performing vector addition for N = 128 and P = 1
+Vector addition successful for N = 128 and P = 1
+Kernel execution time for N = 128: 0.010 ms
+
+Performing vector addition for N = 256 and P = 1
+Vector addition successful for N = 256 and P = 1
+Kernel execution time for N = 256: 0.010 ms
+
+Performing vector addition for N = 512 and P = 1
+Vector addition successful for N = 512 and P = 1
+Kernel execution time for N = 512: 0.011 ms
+
+Performing vector addition for N = 1024 and P = 1
+Vector addition successful for N = 1024 and P = 1
+Kernel execution time for N = 1024: 0.012 ms
+
+Performing vector addition for N = 2048 and P = 1
+Vector addition successful for N = 2048 and P = 1
+Kernel execution time for N = 2048: 0.012 ms
+
+Performing vector addition for N = 4096 and P = 1
+Vector addition successful for N = 4096 and P = 1
+Kernel execution time for N = 4096: 0.014 ms
+
+Performing vector addition for N = 8192 and P = 1
+Vector addition successful for N = 8192 and P = 1
+Kernel execution time for N = 8192: 0.017 ms
+
+Performing vector addition for N = 16384 and P = 1
+Vector addition successful for N = 16384 and P = 1
+Kernel execution time for N = 16384: 0.023 ms
+
+Performing vector addition for N = 32768 and P = 1
+Vector addition successful for N = 32768 and P = 1
+Kernel execution time for N = 32768: 0.041 ms
+
+Performing vector addition for N = 65536 and P = 1
+Vector addition successful for N = 65536 and P = 1
+Kernel execution time for N = 65536: 0.067 ms
+
+Performing vector addition for N = 131072 and P = 1
+Vector addition successful for N = 131072 and P = 1
+Kernel execution time for N = 131072: 0.121 ms
+
+Performing vector addition for N = 262144 and P = 1
+Vector addition successful for N = 262144 and P = 1
+Kernel execution time for N = 262144: 0.239 ms
+
+Performing vector addition for N = 524288 and P = 1
+Vector addition successful for N = 524288 and P = 1
+Kernel execution time for N = 524288: 0.452 ms
+
+Performing vector addition for N = 1048576 and P = 1
+Vector addition successful for N = 1048576 and P = 1
+Kernel execution time for N = 1048576: 0.876 ms
+
+Performing vector addition for N = 2097152 and P = 1
+Vector addition successful for N = 2097152 and P = 1
+Kernel execution time for N = 2097152: 1.788 ms
+
+Performing vector addition for N = 4194304 and P = 1
+Vector addition successful for N = 4194304 and P = 1
+Kernel execution time for N = 4194304: 3.469 ms
+
+Performing vector addition for N = 8388608 and P = 1
+Vector addition successful for N = 8388608 and P = 1
+Kernel execution time for N = 8388608: 6.916 ms
+
+Performing vector addition for N = 16777216 and P = 1
+Vector addition successful for N = 16777216 and P = 1
+Kernel execution time for N = 16777216: 13.820 ms
+
+Performing vector addition for N = 33554432 and P = 1
+Vector addition successful for N = 33554432 and P = 1
+Kernel execution time for N = 33554432: 27.634 ms
+
+Performing vector addition for N = 67108864 and P = 1
+Vector addition successful for N = 67108864 and P = 1
+Kernel execution time for N = 67108864: 55.251 ms
+
+Performing vector addition for N = 134217728 and P = 1
+Vector addition successful for N = 134217728 and P = 1
+Kernel execution time for N = 134217728: 94.454 ms
+
+Performing vector addition for N = 268435456 and P = 1
+Vector addition successful for N = 268435456 and P = 1
+Kernel execution time for N = 268435456: 177.296 ms
+
+Performing vector addition for N = 536870912 and P = 1
+Vector addition successful for N = 536870912 and P = 1
+Kernel execution time for N = 536870912: 347.658 ms
+
+Performing vector addition for N = 1073741824 and P = 1
+Vector addition successful for N = 1073741824 and P = 1
+Kernel execution time for N = 1073741824: 695.465 ms
+
+*************************************************************************************
+
+Performing vector addition for N = 1073741823 and P = 2
+Vector addition successful for N = 1073741823 and P = 2
+Kernel execution time for N = 1073741823: 348.237 ms
+
+Performing vector addition for N = 1073741823 and P = 4
+Vector addition successful for N = 1073741823 and P = 4
+Kernel execution time for N = 1073741823: 173.953 ms
+
+Performing vector addition for N = 1073741823 and P = 8
+Vector addition successful for N = 1073741823 and P = 8
+Kernel execution time for N = 1073741823: 90.936 ms
+
+Performing vector addition for N = 1073741823 and P = 16
+Vector addition successful for N = 1073741823 and P = 16
+Kernel execution time for N = 1073741823: 49.980 ms
+
+Performing vector addition for N = 1073741823 and P = 32
+Vector addition successful for N = 1073741823 and P = 32
+Kernel execution time for N = 1073741823: 26.975 ms
+
+Performing vector addition for N = 1073741823 and P = 64
+Vector addition successful for N = 1073741823 and P = 64
+Kernel execution time for N = 1073741823: 25.430 ms
+
+Performing vector addition for N = 1073741823 and P = 128
+Vector addition successful for N = 1073741823 and P = 128
+Kernel execution time for N = 1073741823: 25.357 ms
+
+Performing vector addition for N = 1073741823 and P = 256
+Vector addition successful for N = 1073741823 and P = 256
+Kernel execution time for N = 1073741823: 25.316 ms
+
+Performing vector addition for N = 1073741823 and P = 512
+Vector addition successful for N = 1073741823 and P = 512
+Kernel execution time for N = 1073741823: 25.406 ms
+
+Performing vector addition for N = 1073741823 and P = 1024
+Vector addition successful for N = 1073741823 and P = 1024
+Kernel execution time for N = 1073741823: 25.441 ms
