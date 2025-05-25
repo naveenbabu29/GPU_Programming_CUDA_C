@@ -1,0 +1,1136 @@
+------------------------- Thread Count: 128 -----------------------------
+VECTOR_SIZE = 1000:
+Rank 0 - Kernel execution time: 0.100 ms
+Rank 0 - Threads per block: 128
+Result is correct!
+Total Execution Time (including MPI): 0.202 seconds
+
+VECTOR_SIZE = 10000:
+Rank 0 - Kernel execution time: 0.013 ms
+Rank 0 - Threads per block: 128
+Result is correct!
+Total Execution Time (including MPI): 0.203 seconds
+
+VECTOR_SIZE = 100000:
+Rank 0 - Kernel execution time: 0.013 ms
+Rank 0 - Threads per block: 128
+Result is correct!
+Total Execution Time (including MPI): 0.205 seconds
+
+VECTOR_SIZE = 1000000:
+Rank 0 - Kernel execution time: 0.048 ms
+Rank 0 - Threads per block: 128
+Result is correct!
+Total Execution Time (including MPI): 0.219 seconds
+
+VECTOR_SIZE = 10000000:
+Rank 0 - Kernel execution time: 0.407 ms
+Rank 0 - Threads per block: 128
+Result is correct!
+Total Execution Time (including MPI): 0.332 seconds
+
+VECTOR_SIZE = 100000000:
+Rank 0 - Kernel execution time: 4.007 ms
+Rank 0 - Threads per block: 128
+Result is correct!
+Total Execution Time (including MPI): 1.428 seconds
+
+VECTOR_SIZE = 1000:
+Rank 1 - Kernel execution time: 0.051 ms
+Rank 1 - Threads per block: 128
+VECTOR_SIZE = 1000:
+Rank 0 - Kernel execution time: 0.041 ms
+Rank 0 - Threads per block: 128
+VECTOR_SIZE = 10000:
+Rank 1 - Kernel execution time: 0.016 ms
+Rank 1 - Threads per block: 128
+Result is correct!
+Total Execution Time (including MPI): 0.352 seconds
+
+VECTOR_SIZE = 10000:
+VECTOR_SIZE = 100000:
+Rank 0 - Kernel execution time: 0.014 ms
+Rank 0 - Threads per block: 128
+Result is correct!
+Total Execution Time (including MPI): 0.353 seconds
+
+VECTOR_SIZE = 100000:
+Rank 1 - Kernel execution time: 0.206 ms
+Rank 1 - Threads per block: 128
+Rank 0 - Kernel execution time: 0.208 ms
+Rank 0 - Threads per block: 128
+VECTOR_SIZE = 1000000:
+Result is correct!
+Total Execution Time (including MPI): 0.355 seconds
+
+VECTOR_SIZE = 1000000:
+Rank 1 - Kernel execution time: 0.164 ms
+Rank 1 - Threads per block: 128
+Rank 0 - Kernel execution time: 0.158 ms
+Rank 0 - Threads per block: 128
+VECTOR_SIZE = 10000000:
+Result is correct!
+Total Execution Time (including MPI): 0.366 seconds
+
+VECTOR_SIZE = 10000000:
+Rank 1 - Kernel execution time: 0.328 ms
+Rank 1 - Threads per block: 128
+Rank 0 - Kernel execution time: 0.324 ms
+Rank 0 - Threads per block: 128
+VECTOR_SIZE = 100000000:
+Result is correct!
+Total Execution Time (including MPI): 0.444 seconds
+
+VECTOR_SIZE = 100000000:
+Rank 1 - Kernel execution time: 2.154 ms
+Rank 1 - Threads per block: 128
+Rank 0 - Kernel execution time: 2.186 ms
+Rank 0 - Threads per block: 128
+Result is correct!
+Total Execution Time (including MPI): 1.214 seconds
+
+VECTOR_SIZE = 1000:
+Rank 2 - Kernel execution time: 0.211 ms
+Rank 2 - Threads per block: 128
+VECTOR_SIZE = 1000:
+VECTOR_SIZE = 10000:
+Rank 0 - Kernel execution time: 0.010 ms
+Rank 0 - Threads per block: 128
+Rank 2 - Kernel execution time: 0.215 ms
+Rank 2 - Threads per block: 128
+VECTOR_SIZE = 100000:
+Rank 2 - Kernel execution time: 0.113 ms
+Rank 2 - Threads per block: 128
+VECTOR_SIZE = 1000000:
+VECTOR_SIZE = 1000:
+Rank 1 - Kernel execution time: 0.050 ms
+Rank 1 - Threads per block: 128
+Result is correct!
+Total Execution Time (including MPI): 0.449 seconds
+
+VECTOR_SIZE = 10000:
+VECTOR_SIZE = 10000:
+Rank 1 - Kernel execution time: 0.014 ms
+Rank 1 - Threads per block: 128
+VECTOR_SIZE = 100000:
+Rank 2 - Kernel execution time: 0.300 ms
+Rank 2 - Threads per block: 128
+Rank 0 - Kernel execution time: 0.009 ms
+Rank 0 - Threads per block: 128
+Result is correct!
+Total Execution Time (including MPI): 0.450 seconds
+
+Rank 1 - Kernel execution time: 0.112 ms
+Rank 1 - Threads per block: 128
+VECTOR_SIZE = 100000:
+VECTOR_SIZE = 1000000:
+Rank 0 - Kernel execution time: 0.115 ms
+Rank 0 - Threads per block: 128
+Result is correct!
+Total Execution Time (including MPI): 0.452 seconds
+
+VECTOR_SIZE = 1000000:
+Rank 0 - Kernel execution time: 0.020 ms
+Rank 0 - Threads per block: 128
+Rank 1 - Kernel execution time: 0.100 ms
+Rank 1 - Threads per block: 128
+VECTOR_SIZE = 10000000:
+VECTOR_SIZE = 10000000:
+Result is correct!
+Total Execution Time (including MPI): 0.463 seconds
+
+VECTOR_SIZE = 10000000:
+Rank 1 - Kernel execution time: 0.503 ms
+Rank 1 - Threads per block: 128
+Rank 2 - Kernel execution time: 0.458 ms
+Rank 2 - Threads per block: 128
+Rank 0 - Kernel execution time: 0.221 ms
+Rank 0 - Threads per block: 128
+Result is correct!
+Total Execution Time (including MPI): 0.532 seconds
+
+VECTOR_SIZE = 1000:
+Rank 1 - Kernel execution time: 0.051 ms
+Rank 1 - Threads per block: 128
+VECTOR_SIZE = 1000:
+Rank 3 - Kernel execution time: 0.046 ms
+Rank 3 - Threads per block: 128
+VECTOR_SIZE = 10000:
+Rank 1 - Kernel execution time: 0.309 ms
+Rank 1 - Threads per block: 128
+VECTOR_SIZE = 100000:
+Rank 1 - Kernel execution time: 0.531 ms
+Rank 1 - Threads per block: 128
+VECTOR_SIZE = 1000000:
+VECTOR_SIZE = 10000:
+Rank 3 - Kernel execution time: 0.015 ms
+Rank 3 - Threads per block: 128
+VECTOR_SIZE = 100000:
+Rank 3 - Kernel execution time: 0.467 ms
+Rank 3 - Threads per block: 128
+Rank 1 - Kernel execution time: 0.589 ms
+Rank 1 - Threads per block: 128
+VECTOR_SIZE = 1000:
+Rank 2 - Kernel execution time: 0.048 ms
+Rank 2 - Threads per block: 128
+VECTOR_SIZE = 10000:
+Rank 2 - Kernel execution time: 0.215 ms
+Rank 2 - Threads per block: 128
+VECTOR_SIZE = 100000:
+Rank 2 - Kernel execution time: 0.114 ms
+Rank 2 - Threads per block: 128
+VECTOR_SIZE = 1000000:
+Rank 2 - Kernel execution time: 0.058 ms
+Rank 2 - Threads per block: 128
+VECTOR_SIZE = 1000000:
+Rank 3 - Kernel execution time: 0.061 ms
+Rank 3 - Threads per block: 128
+VECTOR_SIZE = 1000:
+Rank 0 - Kernel execution time: 0.046 ms
+Rank 0 - Threads per block: 128
+Result is correct!
+Total Execution Time (including MPI): 0.497 seconds
+
+VECTOR_SIZE = 10000:
+Rank 0 - Kernel execution time: 0.211 ms
+Rank 0 - Threads per block: 128
+Result is correct!
+Total Execution Time (including MPI): 0.499 seconds
+
+VECTOR_SIZE = 100000:
+Rank 0 - Kernel execution time: 0.110 ms
+Rank 0 - Threads per block: 128
+Result is correct!
+Total Execution Time (including MPI): 0.500 seconds
+
+VECTOR_SIZE = 1000000:
+Rank 0 - Kernel execution time: 0.054 ms
+Rank 0 - Threads per block: 128
+VECTOR_SIZE = 10000000:
+VECTOR_SIZE = 10000000:
+VECTOR_SIZE = 10000000:
+Result is correct!
+Total Execution Time (including MPI): 0.509 seconds
+
+VECTOR_SIZE = 10000000:
+Rank 2 - Kernel execution time: 0.458 ms
+Rank 2 - Threads per block: 128
+Rank 3 - Kernel execution time: 0.131 ms
+Rank 3 - Threads per block: 128
+Rank 1 - Kernel execution time: 0.660 ms
+Rank 1 - Threads per block: 128
+Rank 0 - Kernel execution time: 0.192 ms
+Rank 0 - Threads per block: 128
+VECTOR_SIZE = 100000000:
+VECTOR_SIZE = 100000000:
+VECTOR_SIZE = 100000000:
+Result is correct!
+Total Execution Time (including MPI): 0.575 seconds
+
+VECTOR_SIZE = 100000000:
+Rank 1 - Kernel execution time: 1.086 ms
+Rank 1 - Threads per block: 128
+Rank 2 - Kernel execution time: 1.095 ms
+Rank 2 - Threads per block: 128
+Rank 3 - Kernel execution time: 1.106 ms
+Rank 3 - Threads per block: 128
+Rank 0 - Kernel execution time: 1.156 ms
+Rank 0 - Threads per block: 128
+Result is correct!
+Total Execution Time (including MPI): 1.248 seconds
+
+------------------------- Thread Count: 256 -----------------------------
+VECTOR_SIZE = 1000:
+Rank 0 - Kernel execution time: 0.090 ms
+Rank 0 - Threads per block: 256
+Result is correct!
+Total Execution Time (including MPI): 0.159 seconds
+
+VECTOR_SIZE = 10000:
+Rank 0 - Kernel execution time: 0.020 ms
+Rank 0 - Threads per block: 256
+Result is correct!
+Total Execution Time (including MPI): 0.160 seconds
+
+VECTOR_SIZE = 100000:
+Rank 0 - Kernel execution time: 0.014 ms
+Rank 0 - Threads per block: 256
+Result is correct!
+Total Execution Time (including MPI): 0.162 seconds
+
+VECTOR_SIZE = 1000000:
+Rank 0 - Kernel execution time: 0.049 ms
+Rank 0 - Threads per block: 256
+Result is correct!
+Total Execution Time (including MPI): 0.177 seconds
+
+VECTOR_SIZE = 10000000:
+Rank 0 - Kernel execution time: 0.434 ms
+Rank 0 - Threads per block: 256
+Result is correct!
+Total Execution Time (including MPI): 0.290 seconds
+
+VECTOR_SIZE = 100000000:
+Rank 0 - Kernel execution time: 4.018 ms
+Rank 0 - Threads per block: 256
+Result is correct!
+Total Execution Time (including MPI): 1.386 seconds
+
+VECTOR_SIZE = 1000:
+Rank 0 - Kernel execution time: 0.049 ms
+Rank 0 - Threads per block: 256
+VECTOR_SIZE = 1000:
+Rank 1 - Kernel execution time: 0.047 ms
+Rank 1 - Threads per block: 256
+Result is correct!
+Total Execution Time (including MPI): 0.328 seconds
+
+VECTOR_SIZE = 10000:
+VECTOR_SIZE = 10000:
+Rank 1 - Kernel execution time: 0.014 ms
+Rank 1 - Threads per block: 256
+Rank 0 - Kernel execution time: 0.013 ms
+Rank 0 - Threads per block: 256
+VECTOR_SIZE = 100000:
+Result is correct!
+Total Execution Time (including MPI): 0.329 seconds
+
+VECTOR_SIZE = 100000:
+Rank 1 - Kernel execution time: 0.154 ms
+Rank 1 - Threads per block: 256
+Rank 0 - Kernel execution time: 0.153 ms
+Rank 0 - Threads per block: 256
+VECTOR_SIZE = 1000000:
+Result is correct!
+Total Execution Time (including MPI): 0.330 seconds
+
+VECTOR_SIZE = 1000000:
+Rank 1 - Kernel execution time: 0.115 ms
+Rank 1 - Threads per block: 256
+Rank 0 - Kernel execution time: 0.109 ms
+Rank 0 - Threads per block: 256
+VECTOR_SIZE = 10000000:
+Result is correct!
+Total Execution Time (including MPI): 0.341 seconds
+
+VECTOR_SIZE = 10000000:
+Rank 1 - Kernel execution time: 0.310 ms
+Rank 1 - Threads per block: 256
+Rank 0 - Kernel execution time: 0.308 ms
+Rank 0 - Threads per block: 256
+VECTOR_SIZE = 100000000:
+Result is correct!
+Total Execution Time (including MPI): 0.420 seconds
+
+VECTOR_SIZE = 100000000:
+Rank 1 - Kernel execution time: 2.101 ms
+Rank 1 - Threads per block: 256
+Rank 0 - Kernel execution time: 2.179 ms
+Rank 0 - Threads per block: 256
+Result is correct!
+Total Execution Time (including MPI): 1.191 seconds
+
+VECTOR_SIZE = 1000:
+VECTOR_SIZE = 1000:
+Rank 0 - Kernel execution time: 0.051 ms
+Rank 0 - Threads per block: 256
+Rank 2 - Kernel execution time: 0.011 ms
+Rank 2 - Threads per block: 256
+VECTOR_SIZE = 1000:
+Rank 1 - Kernel execution time: 0.052 ms
+Rank 1 - Threads per block: 256
+VECTOR_SIZE = 10000:
+Rank 2 - Kernel execution time: 0.013 ms
+Rank 2 - Threads per block: 256
+VECTOR_SIZE = 100000:
+Rank 2 - Kernel execution time: 0.015 ms
+Rank 2 - Threads per block: 256
+VECTOR_SIZE = 1000000:
+Result is correct!
+Total Execution Time (including MPI): 0.467 seconds
+
+VECTOR_SIZE = 10000:
+VECTOR_SIZE = 10000:
+Rank 1 - Kernel execution time: 0.249 ms
+Rank 1 - Threads per block: 256
+Rank 0 - Kernel execution time: 0.244 ms
+Rank 0 - Threads per block: 256
+VECTOR_SIZE = 100000:
+Result is correct!
+Total Execution Time (including MPI): 0.468 seconds
+
+VECTOR_SIZE = 100000:
+Rank 1 - Kernel execution time: 0.129 ms
+Rank 1 - Threads per block: 256
+Rank 0 - Kernel execution time: 0.126 ms
+Rank 0 - Threads per block: 256
+VECTOR_SIZE = 1000000:
+Rank 2 - Kernel execution time: 0.102 ms
+Rank 2 - Threads per block: 256
+Result is correct!
+Total Execution Time (including MPI): 0.470 seconds
+
+VECTOR_SIZE = 1000000:
+Rank 1 - Kernel execution time: 0.112 ms
+Rank 1 - Threads per block: 256
+Rank 0 - Kernel execution time: 0.105 ms
+Rank 0 - Threads per block: 256
+VECTOR_SIZE = 10000000:
+VECTOR_SIZE = 10000000:
+Result is correct!
+Total Execution Time (including MPI): 0.479 seconds
+
+VECTOR_SIZE = 10000000:
+Rank 1 - Kernel execution time: 0.154 ms
+Rank 1 - Threads per block: 256
+Rank 0 - Kernel execution time: 0.237 ms
+Rank 0 - Threads per block: 256
+Rank 2 - Kernel execution time: 0.238 ms
+Rank 2 - Threads per block: 256
+Result is correct!
+Total Execution Time (including MPI): 0.548 seconds
+
+VECTOR_SIZE = 1000:
+Rank 2 - Kernel execution time: 0.244 ms
+Rank 2 - Threads per block: 256
+VECTOR_SIZE = 10000:
+Rank 2 - Kernel execution time: 0.013 ms
+Rank 2 - Threads per block: 256
+VECTOR_SIZE = 100000:
+Rank 2 - Kernel execution time: 0.526 ms
+Rank 2 - Threads per block: 256
+VECTOR_SIZE = 1000000:
+VECTOR_SIZE = 1000:
+Rank 3 - Kernel execution time: 0.054 ms
+Rank 3 - Threads per block: 256
+VECTOR_SIZE = 10000:
+Rank 3 - Kernel execution time: 0.015 ms
+Rank 3 - Threads per block: 256
+VECTOR_SIZE = 100000:
+Rank 3 - Kernel execution time: 0.346 ms
+Rank 3 - Threads per block: 256
+Rank 2 - Kernel execution time: 0.262 ms
+Rank 2 - Threads per block: 256
+VECTOR_SIZE = 1000:
+Rank 1 - Kernel execution time: 0.011 ms
+Rank 1 - Threads per block: 256
+VECTOR_SIZE = 1000:
+Rank 0 - Kernel execution time: 0.052 ms
+Rank 0 - Threads per block: 256
+Result is correct!
+Total Execution Time (including MPI): 0.609 seconds
+
+VECTOR_SIZE = 10000:
+Rank 0 - Kernel execution time: 0.213 ms
+Rank 0 - Threads per block: 256
+Result is correct!
+Total Execution Time (including MPI): 0.610 seconds
+
+VECTOR_SIZE = 100000:
+Rank 0 - Kernel execution time: 0.112 ms
+Rank 0 - Threads per block: 256
+Result is correct!
+Total Execution Time (including MPI): 0.612 seconds
+
+VECTOR_SIZE = 1000000:
+Rank 0 - Kernel execution time: 0.055 ms
+Rank 0 - Threads per block: 256
+VECTOR_SIZE = 1000000:
+Rank 3 - Kernel execution time: 0.054 ms
+Rank 3 - Threads per block: 256
+VECTOR_SIZE = 10000:
+Rank 1 - Kernel execution time: 0.216 ms
+Rank 1 - Threads per block: 256
+VECTOR_SIZE = 100000:
+Rank 1 - Kernel execution time: 0.115 ms
+Rank 1 - Threads per block: 256
+VECTOR_SIZE = 1000000:
+Rank 1 - Kernel execution time: 0.057 ms
+Rank 1 - Threads per block: 256
+VECTOR_SIZE = 10000000:
+VECTOR_SIZE = 10000000:
+VECTOR_SIZE = 10000000:
+Result is correct!
+Total Execution Time (including MPI): 0.620 seconds
+
+VECTOR_SIZE = 10000000:
+Rank 2 - Kernel execution time: 0.121 ms
+Rank 2 - Threads per block: 256
+Rank 0 - Kernel execution time: 0.188 ms
+Rank 0 - Threads per block: 256
+Rank 1 - Kernel execution time: 0.117 ms
+Rank 1 - Threads per block: 256
+Rank 3 - Kernel execution time: 0.120 ms
+Rank 3 - Threads per block: 256
+VECTOR_SIZE = 100000000:
+VECTOR_SIZE = 100000000:
+VECTOR_SIZE = 100000000:
+Result is correct!
+Total Execution Time (including MPI): 0.687 seconds
+
+VECTOR_SIZE = 100000000:
+Rank 1 - Kernel execution time: 1.082 ms
+Rank 1 - Threads per block: 256
+Rank 3 - Kernel execution time: 1.087 ms
+Rank 3 - Threads per block: 256
+Rank 2 - Kernel execution time: 1.086 ms
+Rank 2 - Threads per block: 256
+Rank 0 - Kernel execution time: 1.162 ms
+Rank 0 - Threads per block: 256
+Result is correct!
+Total Execution Time (including MPI): 1.360 seconds
+
+------------------------- Thread Count: 512 -----------------------------
+VECTOR_SIZE = 1000:
+Rank 0 - Kernel execution time: 0.058 ms
+Rank 0 - Threads per block: 512
+Result is correct!
+Total Execution Time (including MPI): 0.148 seconds
+
+VECTOR_SIZE = 10000:
+Rank 0 - Kernel execution time: 0.012 ms
+Rank 0 - Threads per block: 512
+Result is correct!
+Total Execution Time (including MPI): 0.148 seconds
+
+VECTOR_SIZE = 100000:
+Rank 0 - Kernel execution time: 0.012 ms
+Rank 0 - Threads per block: 512
+Result is correct!
+Total Execution Time (including MPI): 0.150 seconds
+
+VECTOR_SIZE = 1000000:
+Rank 0 - Kernel execution time: 0.048 ms
+Rank 0 - Threads per block: 512
+Result is correct!
+Total Execution Time (including MPI): 0.164 seconds
+
+VECTOR_SIZE = 10000000:
+Rank 0 - Kernel execution time: 0.418 ms
+Rank 0 - Threads per block: 512
+Result is correct!
+Total Execution Time (including MPI): 0.278 seconds
+
+VECTOR_SIZE = 100000000:
+Rank 0 - Kernel execution time: 4.023 ms
+Rank 0 - Threads per block: 512
+Result is correct!
+Total Execution Time (including MPI): 1.373 seconds
+
+VECTOR_SIZE = 1000:
+VECTOR_SIZE = 1000:
+Rank 1 - Kernel execution time: 0.052 ms
+Rank 1 - Threads per block: 512
+Rank 0 - Kernel execution time: 0.050 ms
+Rank 0 - Threads per block: 512
+VECTOR_SIZE = 10000:
+Rank 1 - Kernel execution time: 0.014 ms
+Rank 1 - Threads per block: 512
+VECTOR_SIZE = 100000:
+Result is correct!
+Total Execution Time (including MPI): 0.339 seconds
+
+VECTOR_SIZE = 10000:
+Rank 1 - Kernel execution time: 0.545 ms
+Rank 1 - Threads per block: 512
+Rank 0 - Kernel execution time: 0.343 ms
+Rank 0 - Threads per block: 512
+Result is correct!
+Total Execution Time (including MPI): 0.340 seconds
+
+VECTOR_SIZE = 100000:
+Rank 0 - Kernel execution time: 0.013 ms
+Rank 0 - Threads per block: 512
+VECTOR_SIZE = 1000000:
+Result is correct!
+Total Execution Time (including MPI): 0.342 seconds
+
+VECTOR_SIZE = 1000000:
+Rank 1 - Kernel execution time: 0.498 ms
+Rank 1 - Threads per block: 512
+Rank 0 - Kernel execution time: 0.586 ms
+Rank 0 - Threads per block: 512
+VECTOR_SIZE = 10000000:
+Result is correct!
+Total Execution Time (including MPI): 0.353 seconds
+
+VECTOR_SIZE = 10000000:
+Rank 1 - Kernel execution time: 0.310 ms
+Rank 1 - Threads per block: 512
+Rank 0 - Kernel execution time: 0.331 ms
+Rank 0 - Threads per block: 512
+VECTOR_SIZE = 100000000:
+Result is correct!
+Total Execution Time (including MPI): 0.431 seconds
+
+VECTOR_SIZE = 100000000:
+Rank 1 - Kernel execution time: 2.190 ms
+Rank 1 - Threads per block: 512
+Rank 0 - Kernel execution time: 2.173 ms
+Rank 0 - Threads per block: 512
+Result is correct!
+Total Execution Time (including MPI): 1.202 seconds
+
+VECTOR_SIZE = 1000:
+Rank 2 - Kernel execution time: 0.052 ms
+Rank 2 - Threads per block: 512
+VECTOR_SIZE = 10000:
+Rank 2 - Kernel execution time: 0.010 ms
+Rank 2 - Threads per block: 512
+VECTOR_SIZE = 100000:
+Rank 2 - Kernel execution time: 0.446 ms
+Rank 2 - Threads per block: 512
+VECTOR_SIZE = 1000000:
+Rank 2 - Kernel execution time: 0.579 ms
+Rank 2 - Threads per block: 512
+VECTOR_SIZE = 1000:
+VECTOR_SIZE = 1000:
+Rank 1 - Kernel execution time: 0.052 ms
+Rank 1 - Threads per block: 512
+Rank 0 - Kernel execution time: 0.046 ms
+Rank 0 - Threads per block: 512
+Result is correct!
+Total Execution Time (including MPI): 0.508 seconds
+
+VECTOR_SIZE = 10000:
+VECTOR_SIZE = 10000:
+Rank 1 - Kernel execution time: 0.248 ms
+Rank 1 - Threads per block: 512
+Rank 0 - Kernel execution time: 0.243 ms
+Rank 0 - Threads per block: 512
+VECTOR_SIZE = 100000:
+Result is correct!
+Total Execution Time (including MPI): 0.509 seconds
+
+VECTOR_SIZE = 100000:
+Rank 1 - Kernel execution time: 0.132 ms
+Rank 1 - Threads per block: 512
+Rank 0 - Kernel execution time: 0.126 ms
+Rank 0 - Threads per block: 512
+VECTOR_SIZE = 1000000:
+Result is correct!
+Total Execution Time (including MPI): 0.511 seconds
+
+VECTOR_SIZE = 1000000:
+Rank 1 - Kernel execution time: 0.110 ms
+Rank 1 - Threads per block: 512
+Rank 0 - Kernel execution time: 0.108 ms
+Rank 0 - Threads per block: 512
+VECTOR_SIZE = 10000000:
+VECTOR_SIZE = 10000000:
+Result is correct!
+Total Execution Time (including MPI): 0.521 seconds
+
+VECTOR_SIZE = 10000000:
+Rank 1 - Kernel execution time: 0.156 ms
+Rank 1 - Threads per block: 512
+Rank 2 - Kernel execution time: 0.238 ms
+Rank 2 - Threads per block: 512
+Rank 0 - Kernel execution time: 0.242 ms
+Rank 0 - Threads per block: 512
+Result is correct!
+Total Execution Time (including MPI): 0.591 seconds
+
+VECTOR_SIZE = 1000:
+VECTOR_SIZE = 1000:
+Rank 2 - Kernel execution time: 0.218 ms
+Rank 2 - Threads per block: 512
+Rank 0 - Kernel execution time: 0.051 ms
+Rank 0 - Threads per block: 512
+VECTOR_SIZE = 10000:
+VECTOR_SIZE = 1000:
+Rank 2 - Kernel execution time: 0.012 ms
+Rank 2 - Threads per block: 512
+VECTOR_SIZE = 100000:
+Rank 2 - Kernel execution time: 0.322 ms
+Rank 2 - Threads per block: 512
+Rank 1 - Kernel execution time: 0.256 ms
+Rank 1 - Threads per block: 512
+VECTOR_SIZE = 10000:
+Rank 1 - Kernel execution time: 0.014 ms
+Rank 1 - Threads per block: 512
+VECTOR_SIZE = 100000:
+VECTOR_SIZE = 1000:
+Rank 3 - Kernel execution time: 0.045 ms
+Rank 3 - Threads per block: 512
+VECTOR_SIZE = 1000000:
+Rank 2 - Kernel execution time: 0.053 ms
+Rank 2 - Threads per block: 512
+VECTOR_SIZE = 10000:
+Rank 3 - Kernel execution time: 0.429 ms
+Rank 3 - Threads per block: 512
+VECTOR_SIZE = 100000:
+Rank 3 - Kernel execution time: 0.116 ms
+Rank 3 - Threads per block: 512
+VECTOR_SIZE = 1000000:
+Rank 3 - Kernel execution time: 0.055 ms
+Rank 3 - Threads per block: 512
+Result is correct!
+Total Execution Time (including MPI): 0.534 seconds
+
+VECTOR_SIZE = 10000:
+Rank 0 - Kernel execution time: 0.213 ms
+Rank 0 - Threads per block: 512
+Result is correct!
+Total Execution Time (including MPI): 0.535 seconds
+
+VECTOR_SIZE = 100000:
+Rank 0 - Kernel execution time: 0.115 ms
+Rank 0 - Threads per block: 512
+Result is correct!
+Total Execution Time (including MPI): 0.537 seconds
+
+VECTOR_SIZE = 1000000:
+Rank 0 - Kernel execution time: 0.056 ms
+Rank 0 - Threads per block: 512
+Rank 1 - Kernel execution time: 0.009 ms
+Rank 1 - Threads per block: 512
+VECTOR_SIZE = 1000000:
+Rank 1 - Kernel execution time: 0.057 ms
+Rank 1 - Threads per block: 512
+VECTOR_SIZE = 10000000:
+VECTOR_SIZE = 10000000:
+VECTOR_SIZE = 10000000:
+Result is correct!
+Total Execution Time (including MPI): 0.546 seconds
+
+VECTOR_SIZE = 10000000:
+Rank 1 - Kernel execution time: 0.121 ms
+Rank 1 - Threads per block: 512
+Rank 2 - Kernel execution time: 0.116 ms
+Rank 2 - Threads per block: 512
+Rank 3 - Kernel execution time: 0.121 ms
+Rank 3 - Threads per block: 512
+Rank 0 - Kernel execution time: 0.184 ms
+Rank 0 - Threads per block: 512
+VECTOR_SIZE = 100000000:
+VECTOR_SIZE = 100000000:
+VECTOR_SIZE = 100000000:
+Result is correct!
+Total Execution Time (including MPI): 0.613 seconds
+
+VECTOR_SIZE = 100000000:
+Rank 1 - Kernel execution time: 1.093 ms
+Rank 1 - Threads per block: 512
+Rank 2 - Kernel execution time: 1.093 ms
+Rank 2 - Threads per block: 512
+Rank 3 - Kernel execution time: 1.098 ms
+Rank 3 - Threads per block: 512
+Rank 0 - Kernel execution time: 1.162 ms
+Rank 0 - Threads per block: 512
+Result is correct!
+Total Execution Time (including MPI): 1.286 seconds
+
+------------------------- Thread Count: 1024 -----------------------------
+VECTOR_SIZE = 1000:
+Rank 0 - Kernel execution time: 0.098 ms
+Rank 0 - Threads per block: 1024
+Result is correct!
+Total Execution Time (including MPI): 0.149 seconds
+
+VECTOR_SIZE = 10000:
+Rank 0 - Kernel execution time: 0.012 ms
+Rank 0 - Threads per block: 1024
+Result is correct!
+Total Execution Time (including MPI): 0.150 seconds
+
+VECTOR_SIZE = 100000:
+Rank 0 - Kernel execution time: 0.013 ms
+Rank 0 - Threads per block: 1024
+Result is correct!
+Total Execution Time (including MPI): 0.152 seconds
+
+VECTOR_SIZE = 1000000:
+Rank 0 - Kernel execution time: 0.047 ms
+Rank 0 - Threads per block: 1024
+Result is correct!
+Total Execution Time (including MPI): 0.165 seconds
+
+VECTOR_SIZE = 10000000:
+Rank 0 - Kernel execution time: 0.414 ms
+Rank 0 - Threads per block: 1024
+Result is correct!
+Total Execution Time (including MPI): 0.279 seconds
+
+VECTOR_SIZE = 100000000:
+Rank 0 - Kernel execution time: 4.065 ms
+Rank 0 - Threads per block: 1024
+Result is correct!
+Total Execution Time (including MPI): 1.374 seconds
+
+VECTOR_SIZE = 1000:
+Rank 0 - Kernel execution time: 0.369 ms
+Rank 0 - Threads per block: 1024
+VECTOR_SIZE = 1000:
+Rank 1 - Kernel execution time: 0.043 ms
+Rank 1 - Threads per block: 1024
+Result is correct!
+Total Execution Time (including MPI): 0.352 seconds
+
+VECTOR_SIZE = 10000:
+VECTOR_SIZE = 10000:
+Rank 1 - Kernel execution time: 0.014 ms
+Rank 1 - Threads per block: 1024
+VECTOR_SIZE = 100000:
+Rank 0 - Kernel execution time: 0.014 ms
+Rank 0 - Threads per block: 1024
+Result is correct!
+Total Execution Time (including MPI): 0.352 seconds
+
+VECTOR_SIZE = 100000:
+Rank 1 - Kernel execution time: 0.193 ms
+Rank 1 - Threads per block: 1024
+Rank 0 - Kernel execution time: 0.184 ms
+Rank 0 - Threads per block: 1024
+VECTOR_SIZE = 1000000:
+Result is correct!
+Total Execution Time (including MPI): 0.354 seconds
+
+VECTOR_SIZE = 1000000:
+Rank 1 - Kernel execution time: 0.532 ms
+Rank 1 - Threads per block: 1024
+Rank 0 - Kernel execution time: 0.634 ms
+Rank 0 - Threads per block: 1024
+VECTOR_SIZE = 10000000:
+Result is correct!
+Total Execution Time (including MPI): 0.366 seconds
+
+VECTOR_SIZE = 10000000:
+Rank 1 - Kernel execution time: 0.352 ms
+Rank 1 - Threads per block: 1024
+Rank 0 - Kernel execution time: 0.346 ms
+Rank 0 - Threads per block: 1024
+VECTOR_SIZE = 100000000:
+Result is correct!
+Total Execution Time (including MPI): 0.444 seconds
+
+VECTOR_SIZE = 100000000:
+Rank 1 - Kernel execution time: 2.227 ms
+Rank 1 - Threads per block: 1024
+Rank 0 - Kernel execution time: 2.200 ms
+Rank 0 - Threads per block: 1024
+Result is correct!
+Total Execution Time (including MPI): 1.214 seconds
+
+VECTOR_SIZE = 1000:
+Rank 2 - Kernel execution time: 0.055 ms
+Rank 2 - Threads per block: 1024
+VECTOR_SIZE = 10000:
+Rank 2 - Kernel execution time: 0.014 ms
+Rank 2 - Threads per block: 1024
+VECTOR_SIZE = 100000:
+Rank 2 - Kernel execution time: 0.122 ms
+Rank 2 - Threads per block: 1024
+VECTOR_SIZE = 1000000:
+VECTOR_SIZE = 1000:
+Rank 1 - Kernel execution time: 0.107 ms
+Rank 1 - Threads per block: 1024
+Rank 2 - Kernel execution time: 0.103 ms
+Rank 2 - Threads per block: 1024
+VECTOR_SIZE = 1000:
+Rank 0 - Kernel execution time: 0.043 ms
+Rank 0 - Threads per block: 1024
+Result is correct!
+Total Execution Time (including MPI): 0.473 seconds
+
+VECTOR_SIZE = 10000:
+VECTOR_SIZE = 10000:
+Rank 1 - Kernel execution time: 0.229 ms
+Rank 1 - Threads per block: 1024
+Rank 0 - Kernel execution time: 0.225 ms
+Rank 0 - Threads per block: 1024
+VECTOR_SIZE = 100000:
+Result is correct!
+Total Execution Time (including MPI): 0.474 seconds
+
+VECTOR_SIZE = 100000:
+Rank 1 - Kernel execution time: 0.120 ms
+Rank 1 - Threads per block: 1024
+Rank 0 - Kernel execution time: 0.117 ms
+Rank 0 - Threads per block: 1024
+VECTOR_SIZE = 1000000:
+Result is correct!
+Total Execution Time (including MPI): 0.476 seconds
+
+VECTOR_SIZE = 1000000:
+Rank 1 - Kernel execution time: 0.022 ms
+Rank 1 - Threads per block: 1024
+Rank 0 - Kernel execution time: 0.094 ms
+Rank 0 - Threads per block: 1024
+VECTOR_SIZE = 10000000:
+VECTOR_SIZE = 10000000:
+Result is correct!
+Total Execution Time (including MPI): 0.485 seconds
+
+VECTOR_SIZE = 10000000:
+Rank 1 - Kernel execution time: 0.152 ms
+Rank 1 - Threads per block: 1024
+Rank 2 - Kernel execution time: 0.205 ms
+Rank 2 - Threads per block: 1024
+Rank 0 - Kernel execution time: 0.214 ms
+Rank 0 - Threads per block: 1024
+Result is correct!
+Total Execution Time (including MPI): 0.554 seconds
+
+VECTOR_SIZE = 1000:
+VECTOR_SIZE = 1000:
+Rank 1 - Kernel execution time: 0.051 ms
+Rank 1 - Threads per block: 1024
+VECTOR_SIZE = 1000:
+Rank 2 - Kernel execution time: 0.217 ms
+Rank 2 - Threads per block: 1024
+Rank 0 - Kernel execution time: 0.055 ms
+Rank 0 - Threads per block: 1024
+VECTOR_SIZE = 10000:
+Rank 1 - Kernel execution time: 0.219 ms
+Rank 1 - Threads per block: 1024
+VECTOR_SIZE = 100000:
+Rank 1 - Kernel execution time: 0.066 ms
+Rank 1 - Threads per block: 1024
+VECTOR_SIZE = 1000000:
+VECTOR_SIZE = 1000:
+Rank 3 - Kernel execution time: 0.218 ms
+Rank 3 - Threads per block: 1024
+VECTOR_SIZE = 10000:
+Rank 3 - Kernel execution time: 0.227 ms
+Rank 3 - Threads per block: 1024
+Result is correct!
+Total Execution Time (including MPI): 0.530 seconds
+
+VECTOR_SIZE = 10000:
+Rank 0 - Kernel execution time: 0.219 ms
+Rank 0 - Threads per block: 1024
+VECTOR_SIZE = 10000:
+Rank 2 - Kernel execution time: 0.012 ms
+Rank 2 - Threads per block: 1024
+VECTOR_SIZE = 100000:
+Rank 2 - Kernel execution time: 0.112 ms
+Rank 2 - Threads per block: 1024
+VECTOR_SIZE = 1000000:
+Result is correct!
+Total Execution Time (including MPI): 0.531 seconds
+
+VECTOR_SIZE = 100000:
+Rank 0 - Kernel execution time: 0.329 ms
+Rank 0 - Threads per block: 1024
+Result is correct!
+Total Execution Time (including MPI): 0.533 seconds
+
+VECTOR_SIZE = 1000000:
+Rank 0 - Kernel execution time: 0.055 ms
+Rank 0 - Threads per block: 1024
+VECTOR_SIZE = 100000:
+Rank 3 - Kernel execution time: 0.323 ms
+Rank 3 - Threads per block: 1024
+VECTOR_SIZE = 1000000:
+Rank 3 - Kernel execution time: 0.057 ms
+Rank 3 - Threads per block: 1024
+Rank 1 - Kernel execution time: 0.056 ms
+Rank 1 - Threads per block: 1024
+Rank 2 - Kernel execution time: 0.055 ms
+Rank 2 - Threads per block: 1024
+VECTOR_SIZE = 10000000:
+Result is correct!
+Total Execution Time (including MPI): 0.542 seconds
+
+VECTOR_SIZE = 10000000:
+VECTOR_SIZE = 10000000:
+VECTOR_SIZE = 10000000:
+Rank 3 - Kernel execution time: 0.145 ms
+Rank 3 - Threads per block: 1024
+Rank 1 - Kernel execution time: 0.121 ms
+Rank 1 - Threads per block: 1024
+Rank 2 - Kernel execution time: 0.236 ms
+Rank 2 - Threads per block: 1024
+Rank 0 - Kernel execution time: 0.210 ms
+Rank 0 - Threads per block: 1024
+VECTOR_SIZE = 100000000:
+VECTOR_SIZE = 100000000:
+VECTOR_SIZE = 100000000:
+Result is correct!
+Total Execution Time (including MPI): 0.609 seconds
+
+VECTOR_SIZE = 100000000:
+Rank 1 - Kernel execution time: 1.089 ms
+Rank 1 - Threads per block: 1024
+Rank 3 - Kernel execution time: 1.094 ms
+Rank 3 - Threads per block: 1024
+Rank 2 - Kernel execution time: 1.089 ms
+Rank 2 - Threads per block: 1024
+Rank 0 - Kernel execution time: 1.165 ms
+Rank 0 - Threads per block: 1024
+Result is correct!
+Total Execution Time (including MPI): 1.288 seconds
+
+------------------------- Thread Count: 128 -----------------------------
+VECTOR_SIZE = 100000000:
+Rank 0 - Kernel execution time: 4.073 ms
+Rank 0 - Threads per block: 128
+Result is correct!
+Total Execution Time (including MPI): 1.261 seconds
+
+VECTOR_SIZE = 100000000:
+VECTOR_SIZE = 100000000:
+Rank 1 - Kernel execution time: 2.210 ms
+Rank 1 - Threads per block: 128
+Rank 0 - Kernel execution time: 2.223 ms
+Rank 0 - Threads per block: 128
+Result is correct!
+Total Execution Time (including MPI): 1.078 seconds
+
+VECTOR_SIZE = 99999999:
+VECTOR_SIZE = 99999999:
+VECTOR_SIZE = 99999999:
+Rank 2 - Kernel execution time: 3.177 ms
+Rank 2 - Threads per block: 128
+Rank 0 - Kernel execution time: 4.193 ms
+Rank 0 - Threads per block: 128
+Rank 1 - Kernel execution time: 2.437 ms
+Rank 1 - Threads per block: 128
+Result is correct!
+Total Execution Time (including MPI): 1.146 seconds
+
+VECTOR_SIZE = 100000000:
+VECTOR_SIZE = 100000000:
+VECTOR_SIZE = 100000000:
+VECTOR_SIZE = 100000000:
+Rank 2 - Kernel execution time: 1.214 ms
+Rank 2 - Threads per block: 128
+Rank 0 - Kernel execution time: 1.200 ms
+Rank 0 - Threads per block: 128
+Rank 1 - Kernel execution time: 1.244 ms
+Rank 1 - Threads per block: 128
+Rank 3 - Kernel execution time: 1.201 ms
+Rank 3 - Threads per block: 128
+Result is correct!
+Total Execution Time (including MPI): 1.269 seconds
+
+------------------------- Thread Count: 256 -----------------------------
+VECTOR_SIZE = 100000000:
+Rank 0 - Kernel execution time: 4.103 ms
+Rank 0 - Threads per block: 256
+Result is correct!
+Total Execution Time (including MPI): 1.225 seconds
+
+VECTOR_SIZE = 100000000:
+VECTOR_SIZE = 100000000:
+Rank 1 - Kernel execution time: 2.228 ms
+Rank 1 - Threads per block: 256
+Rank 0 - Kernel execution time: 2.224 ms
+Rank 0 - Threads per block: 256
+Result is correct!
+Total Execution Time (including MPI): 1.070 seconds
+
+VECTOR_SIZE = 99999999:
+VECTOR_SIZE = 99999999:
+VECTOR_SIZE = 99999999:
+Rank 0 - Kernel execution time: 3.170 ms
+Rank 0 - Threads per block: 256
+Rank 2 - Kernel execution time: 2.266 ms
+Rank 2 - Threads per block: 256
+Rank 1 - Kernel execution time: 1.658 ms
+Rank 1 - Threads per block: 256
+Result is correct!
+Total Execution Time (including MPI): 1.154 seconds
+
+VECTOR_SIZE = 100000000:
+VECTOR_SIZE = 100000000:
+VECTOR_SIZE = 100000000:
+VECTOR_SIZE = 100000000:
+Rank 1 - Kernel execution time: 1.213 ms
+Rank 1 - Threads per block: 256
+Rank 2 - Kernel execution time: 1.939 ms
+Rank 2 - Threads per block: 256
+Rank 3 - Kernel execution time: 1.214 ms
+Rank 3 - Threads per block: 256
+Rank 0 - Kernel execution time: 2.442 ms
+Rank 0 - Threads per block: 256
+Result is correct!
+Total Execution Time (including MPI): 1.258 seconds
+
+------------------------- Thread Count: 512 -----------------------------
+VECTOR_SIZE = 100000000:
+Rank 0 - Kernel execution time: 4.120 ms
+Rank 0 - Threads per block: 512
+Result is correct!
+Total Execution Time (including MPI): 1.212 seconds
+
+VECTOR_SIZE = 100000000:
+VECTOR_SIZE = 100000000:
+Rank 1 - Kernel execution time: 2.220 ms
+Rank 1 - Threads per block: 512
+Rank 0 - Kernel execution time: 2.217 ms
+Rank 0 - Threads per block: 512
+Result is correct!
+Total Execution Time (including MPI): 1.078 seconds
+
+VECTOR_SIZE = 99999999:
+VECTOR_SIZE = 99999999:
+VECTOR_SIZE = 99999999:
+Rank 1 - Kernel execution time: 1.560 ms
+Rank 1 - Threads per block: 512
+Rank 2 - Kernel execution time: 3.189 ms
+Rank 2 - Threads per block: 512
+Rank 0 - Kernel execution time: 2.024 ms
+Rank 0 - Threads per block: 512
+Result is correct!
+Total Execution Time (including MPI): 1.146 seconds
+
+VECTOR_SIZE = 100000000:
+VECTOR_SIZE = 100000000:
+VECTOR_SIZE = 100000000:
+VECTOR_SIZE = 100000000:
+Rank 1 - Kernel execution time: 1.645 ms
+Rank 1 - Threads per block: 512
+Rank 2 - Kernel execution time: 1.228 ms
+Rank 2 - Threads per block: 512
+Rank 3 - Kernel execution time: 1.208 ms
+Rank 3 - Threads per block: 512
+Rank 0 - Kernel execution time: 2.480 ms
+Rank 0 - Threads per block: 512
+Result is correct!
+Total Execution Time (including MPI): 1.252 seconds
+
+------------------------- Thread Count: 1024 -----------------------------
+VECTOR_SIZE = 100000000:
+Rank 0 - Kernel execution time: 4.137 ms
+Rank 0 - Threads per block: 1024
+Result is correct!
+Total Execution Time (including MPI): 1.215 seconds
+
+VECTOR_SIZE = 100000000:
+VECTOR_SIZE = 100000000:
+Rank 0 - Kernel execution time: 2.220 ms
+Rank 0 - Threads per block: 1024
+Rank 1 - Kernel execution time: 2.204 ms
+Rank 1 - Threads per block: 1024
+Result is correct!
+Total Execution Time (including MPI): 1.076 seconds
+
+VECTOR_SIZE = 99999999:
+VECTOR_SIZE = 99999999:
+VECTOR_SIZE = 99999999:
+Rank 0 - Kernel execution time: 1.560 ms
+Rank 0 - Threads per block: 1024
+Rank 1 - Kernel execution time: 1.563 ms
+Rank 1 - Threads per block: 1024
+Rank 2 - Kernel execution time: 1.543 ms
+Rank 2 - Threads per block: 1024
+Result is correct!
+Total Execution Time (including MPI): 1.141 seconds
+
+VECTOR_SIZE = 100000000:
+VECTOR_SIZE = 100000000:
+VECTOR_SIZE = 100000000:
+VECTOR_SIZE = 100000000:
+Rank 1 - Kernel execution time: 2.016 ms
+Rank 1 - Threads per block: 1024
+Rank 0 - Kernel execution time: 2.481 ms
+Rank 0 - Threads per block: 1024
+Rank 2 - Kernel execution time: 1.191 ms
+Rank 2 - Threads per block: 1024
+Rank 3 - Kernel execution time: 1.212 ms
+Rank 3 - Threads per block: 1024
+Result is correct!
+Total Execution Time (including MPI): 1.237 seconds
+
